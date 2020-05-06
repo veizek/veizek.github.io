@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Veizek</title>
-    <link>https://veizek.lt/categories/</link>
+    <link>https://pa.veizek.lt/categories/</link>
     <description>Recent content in Categories on Veizek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>lt-lt</language>
     
-	<atom:link href="https://veizek.lt/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pa.veizek.lt/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

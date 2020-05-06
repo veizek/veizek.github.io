@@ -3,15 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://veizek.lt/categories/</loc>
+    <loc>https://pa.veizek.lt/posts/pamerkiai-dainininku-paminklas/</loc>
+    <lastmod>2020-05-04T06:02:53+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://veizek.lt/tags/</loc>
+    <loc>https://pa.veizek.lt/posts/</loc>
+    <lastmod>2020-05-04T06:02:53+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://veizek.lt/</loc>
+    <loc>https://pa.veizek.lt/</loc>
+    <lastmod>2020-05-04T06:02:53+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pa.veizek.lt/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://pa.veizek.lt/tags/</loc>
   </url>
   
 </urlset>
